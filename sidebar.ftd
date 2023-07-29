@@ -3,7 +3,7 @@ sidebar: true
 
 -- ds.page.right-sidebar:
 
--- ds.h3: Heading in sidebar
+-- ds.h3: Heading in sidebarTEJASVITANKAR/portfolio/.github
 
 You can call any component inside sidebar. 
 
