@@ -1,0 +1,11 @@
+-- import. package/header as navbar
+-- import: package/base-layout
+
+-- layout.base-layout;
+
+--navbar.header:
+logo: $assets.files.images.logo.svg
+logoURL: /poertfolio
+header-item-1: Home
+header-item-1: About
+header-item-1: Projects
