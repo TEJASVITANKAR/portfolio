@@ -75,7 +75,7 @@ align-self: center
 spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: I'm
+firstTitle: I'm,
 secondTitle: RAJ DESHMUKH,
 
 -- lib.hero-ui-base-text-wrapper:
